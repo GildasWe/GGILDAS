@@ -1,4 +1,5 @@
 import json
+#GNONHOSSOU GILDAS MAHUGNON.
 def charger_notes() :
     try :
         with open("NOTES.json","r") as fichier :
